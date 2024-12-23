@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aad2e4c2252f4aa08d83ac83793c3318" Name="Diagram1" ZoomLevel="10">
+        <EntityTypeShape EntityType="FalconHouseModel1.Access" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Advance" Width="1.5" PointX="17" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.AdvanceReturn" Width="1.5" PointX="17" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Alert" Width="1.5" PointX="2.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Allottee" Width="1.5" PointX="3" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.AltrationTb" Width="1.5" PointX="4.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.CareOf" Width="1.5" PointX="5.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.CategoryTb" Width="1.5" PointX="19.75" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ComercialAllottment" Width="1.5" PointX="8" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ComplaintTb" Width="1.5" PointX="0.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Contractor" Width="1.5" PointX="2.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ContractorTb" Width="1.5" PointX="15" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.dbFile" Width="1.5" PointX="7.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Document" Width="1.5" PointX="7.5" PointY="32" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Employee" Width="1.5" PointX="14.75" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.EmployeeSalary" Width="1.5" PointX="17" PointY="19.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.EmployeesAttendance" Width="1.5" PointX="17" PointY="22.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Expens" Width="1.5" PointX="3.75" PointY="31.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.FamilytreeTB" Width="1.5" PointX="5.75" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Fine" Width="1.5" PointX="10.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.House" Width="1.5" PointX="0.75" PointY="23.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.HouseBill" Width="1.5" PointX="6" PointY="27" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ImagesPath" Width="1.5" PointX="7.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.InvTransferTb" Width="1.5" PointX="0.75" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.IssueDetailTb" Width="1.5" PointX="3" PointY="19.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ItemsDeff" Width="1.5" PointX="22" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.MarketTb" Width="1.5" PointX="5.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Payment" Width="1.5" PointX="3" PointY="23.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.PaymentDetail" Width="1.5" PointX="5.25" PointY="23.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Pet" Width="1.5" PointX="2.75" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ProgressTb" Width="1.5" PointX="19.5" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ProjectAssignedTb" Width="1.5" PointX="17.25" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ProjectMeterialIssuTb" Width="1.5" PointX="0.75" PointY="19.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ProjectTb" Width="1.5" PointX="19.75" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ProjectTbNew" Width="1.5" PointX="15" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ProjectTypeTb" Width="1.5" PointX="12.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.PurchaseDetail" Width="1.5" PointX="15" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Purchaser" Width="1.5" PointX="3" PointY="26.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.PurchaseTb" Width="1.5" PointX="12.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.RAC" Width="1.5" PointX="9.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.RarReceiptTb" Width="1.5" PointX="21.75" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.RarTb" Width="1.5" PointX="19.5" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.RenteePaymentTb" Width="1.5" PointX="12.5" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Resident" Width="1.5" PointX="5.25" PointY="37.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ResidentsInfo" Width="1.5" PointX="7.5" PointY="36.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ResidentTb" Width="1.5" PointX="3" PointY="48.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Servant" Width="1.5" PointX="7.5" PointY="39.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ShopCurrentTb" Width="1.5" PointX="10.25" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ShopsRent" Width="1.5" PointX="10.25" PointY="11.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ShopsTb" Width="1.5" PointX="8" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Supplier" Width="1.5" PointX="7.75" PointY="21.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Tenant" Width="1.5" PointX="3" PointY="53.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.UOMTb" Width="1.5" PointX="19.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.User" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.vaccinTb" Width="1.5" PointX="9.75" PointY="21.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Vehicle" Width="1.5" PointX="7.5" PointY="46.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.VehicleTb" Width="1.5" PointX="11.75" PointY="21.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.VisiterTb" Width="1.5" PointX="19.75" PointY="21.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.Visitor" Width="1.5" PointX="21.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="FalconHouseModel1.YardStick" Width="1.5" PointX="17.25" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Access_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Advance_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_AdvanceReturn_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Allottee_House" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ItemsDeff_CategoryTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ComercialAllottment_MarketTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ProjectAssignedTb_ContractorTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Documents_Residents" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_EmployeeSalary_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_EmployeesAttendance_EmployeesAttendance" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_HouseBills_Expenses" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_HouseBills_HouseBills" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Payment_Payment" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Purchaser_House" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Residents_Residents" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ResidentTb_House" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Tenant_House" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_IssueDetailTb_ProjectMeterialIssuTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ShopsTb_MarketTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_PaymentDetails_PaymentDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ProgressTb_ProjectAssignedTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ProgressTb_YardStick" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ProjectAssignedTb_ProjectTbNew" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_RarTb_ProjectAssignedTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ProjectTbNew_ProjectTypeTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_PurchaseDetail_PurchaseTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_RarReceiptTb_RarTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_RenteePaymentTb_ShopCurrentTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_RenteePaymentTb_ShopsTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Residents_Tenant" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ResidentsInfo_Residents" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Servant_Residents" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_Vehicles_Vehicles" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ShopCurrentTb_ShopsTb" ManuallyRouted="false" />
+        <AssociationConnector Association="FalconHouseModel1.FK_ShopsRent_ShopsTb" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="FalconHouseModel1.ColorTb" Width="1.5" PointX="3.3276873432694409" PointY="26.281545651276385" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

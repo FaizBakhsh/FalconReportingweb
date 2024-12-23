@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HOccupancy" targetNamespace="http://tempuri.org/HOccupancy.xsd" xmlns:mstns="http://tempuri.org/HOccupancy.xsd" xmlns="http://tempuri.org/HOccupancy.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HOccupancy" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="HOccupancy" msprop:Generator_UserDSName="HOccupancy">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="OccupancyTb" msprop:Generator_TableClassName="OccupancyTbDataTable" msprop:Generator_TableVarName="tableOccupancyTb" msprop:Generator_TablePropName="OccupancyTb" msprop:Generator_RowDeletingName="OccupancyTbRowDeleting" msprop:Generator_RowChangingName="OccupancyTbRowChanging" msprop:Generator_RowEvHandlerName="OccupancyTbRowChangeEventHandler" msprop:Generator_RowDeletedName="OccupancyTbRowDeleted" msprop:Generator_UserTableName="OccupancyTb" msprop:Generator_RowChangedName="OccupancyTbRowChanged" msprop:Generator_RowEvArgName="OccupancyTbRowChangeEvent" msprop:Generator_RowClassName="OccupancyTbRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Hnumber" msprop:Generator_ColumnVarNameInTable="columnHnumber" msprop:Generator_ColumnPropNameInRow="Hnumber" msprop:Generator_ColumnPropNameInTable="HnumberColumn" msprop:Generator_UserColumnName="Hnumber" type="xs:string" minOccurs="0" />
+              <xs:element name="OccupiedBy" msprop:Generator_ColumnVarNameInTable="columnOccupiedBy" msprop:Generator_ColumnPropNameInRow="OccupiedBy" msprop:Generator_ColumnPropNameInTable="OccupiedByColumn" msprop:Generator_UserColumnName="OccupiedBy" type="xs:string" minOccurs="0" />
+              <xs:element name="Img" msprop:Generator_ColumnVarNameInTable="columnImg" msprop:Generator_ColumnPropNameInRow="Img" msprop:Generator_ColumnPropNameInTable="ImgColumn" msprop:Generator_UserColumnName="Img" type="xs:string" minOccurs="0" />
+              <xs:element name="CNIC" msprop:Generator_ColumnVarNameInTable="columnCNIC" msprop:Generator_ColumnPropNameInRow="CNIC" msprop:Generator_ColumnPropNameInTable="CNICColumn" msprop:Generator_UserColumnName="CNIC" type="xs:string" minOccurs="0" />
+              <xs:element name="Relation" msprop:Generator_ColumnVarNameInTable="columnRelation" msprop:Generator_ColumnPropNameInRow="Relation" msprop:Generator_ColumnPropNameInTable="RelationColumn" msprop:Generator_UserColumnName="Relation" type="xs:string" minOccurs="0" />
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" msprop:Generator_ColumnVarNameInTable="columnAction" msprop:Generator_ColumnPropNameInRow="Action" msprop:Generator_ColumnPropNameInTable="ActionColumn" msprop:Generator_UserColumnName="Action" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
